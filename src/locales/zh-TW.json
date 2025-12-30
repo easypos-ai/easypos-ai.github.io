@@ -1,0 +1,132 @@
+{
+  "common": {
+    "home": "首頁",
+    "products": "產品",
+    "cases": "客戶案例",
+    "about": "公司介紹",
+    "contact": "聯繫我們",
+    "language": "語言",
+    "zh-CN": "简体中文",
+    "zh-TW": "繁體中文",
+    "en": "English"
+  },
+  "home": {
+    "title": "專業的餐飲POS解決方案",
+    "subtitle": "為餐飲行業提供全鏈路數位化服務，助力企業高效運營",
+    "industry": {
+      "title": "行業解決方案",
+      "dining": "正餐",
+      "fastfood": "快餐",
+      "hotpot": "火鍋",
+      "tea": "茶飲",
+      "bakery": "烘焙",
+      "coffee": "咖啡",
+      "buffet": "自助餐"
+    },
+    "international": {
+      "title": "國際化服務",
+      "multiCurrency": "多幣種支持",
+      "multiTax": "多稅務系統",
+      "serviceFee": "服務費管理"
+    },
+    "solution": {
+      "title": "全鏈路解決方案",
+      "description": "從前台收銀到後台管理，從供應鏈到數據分析，一站式解決餐飲管理難題"
+    }
+  },
+  "products": {
+    "title": "產品服務",
+    "store": {
+      "title": "門店運營",
+      "pos": "POS收銀系統",
+      "kds": "KDS廚房顯示系統",
+      "mobile": "手持點餐",
+      "queue": "智能叫號"
+    },
+    "online": {
+      "title": "線上智慧餐廳",
+      "miniprogram": "小程序/H5",
+      "platform": "多平台聚合接單",
+      "payment": "在線支付",
+      "review": "顧客評價",
+      "invoice": "電子發票"
+    },
+    "supply": {
+      "title": "智慧供應鏈",
+      "purchase": "採購及供應商管理",
+      "order": "門店智能訂貨",
+      "supplier": "供應商協同",
+      "replenish": "智能補貨",
+      "cost": "成本管理"
+    },
+    "marketing": {
+      "title": "智慧營銷",
+      "member": "會員管理",
+      "activity": "營銷活動",
+      "recharge": "智能儲值",
+      "coupon": "優惠券",
+      "analysis": "會員分析",
+      "points": "積分商城"
+    },
+    "data": {
+      "title": "數據中台",
+      "business": "營業看板",
+      "memberBoard": "會員看板",
+      "productBoard": "產品看板",
+      "dashboard": "門店經營儀表盤"
+    },
+    "chain": {
+      "title": "連鎖化管控",
+      "organization": "多組織管控",
+      "brand": "多品牌",
+      "region": "多地域"
+    },
+    "storeManagement": {
+      "title": "開店管理系統",
+      "location": "輔助選址",
+      "process": "開店全流程管理",
+      "warning": "實時預警",
+      "archive": "門店電子檔案庫",
+      "rent": "租金租約管理"
+    },
+    "scheduling": {
+      "title": "智能排班",
+      "position": "崗位工時指引",
+      "forecast": "業務預測",
+      "recommend": "排班推薦",
+      "attendance": "考勤統計",
+      "productivity": "生產力分析"
+    },
+    "sentiment": {
+      "title": "輿情分析",
+      "research": "顧客調研",
+      "evaluation": "多渠道評價聚合",
+      "analysis": "評價分析",
+      "improvement": "服務改善",
+      "tracking": "差評追蹤管理"
+    },
+    "service": {
+      "title": "服務大廳",
+      "hall": "辦事大廳",
+      "notice": "通知公告",
+      "feedback": "反饋追蹤",
+      "mobile": "移動辦理"
+    }
+  },
+  "cases": {
+    "title": "客戶案例",
+    "subtitle": "我們已為眾多知名餐飲品牌提供專業服務"
+  },
+  "about": {
+    "title": "公司介紹",
+    "subtitle": "致力於為餐飲行業提供最優質的數位化解決方案"
+  },
+  "contact": {
+    "title": "聯繫我們",
+    "company": "公司名稱",
+    "name": "姓名",
+    "phone": "手機",
+    "email": "郵箱",
+    "submit": "提交"
+  }
+}
