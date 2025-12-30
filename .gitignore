@@ -2,6 +2,12 @@
 node_modules
 /dist
 
+# Jekyll 构建输出目录
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
 # local env files
 .env.local
 .env.*.local
