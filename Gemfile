@@ -1,5 +1,0 @@
-source "https://rubygems.org"
-gem "jekyll", "~> 4.3"
-gem "kramdown", "~> 2.3"
-gem "rouge", "~> 3.26"
-gem "jekyll-paginate", "~> 1.1"
